@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "word-to-numbers": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.1"
+  }
+}
